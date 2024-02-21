@@ -3,10 +3,10 @@ $(window).scroll(function () {
 
     if ($(this).scrollTop() > 400) {
         $("#menu").removeClass("navbar");
-        $('#menu').addClass("bg-interno");
+        $('#menu').addClass("bg-dark");
     } else {
 
-        $("#menu").removeClass("bg-interno");
+        $("#menu").removeClass("bg-dark");
         $('#menu').addClass("navbar");
     }
 
