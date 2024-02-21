@@ -9,13 +9,7 @@ body {
     background-color: transparent !important;
     color:white;
   }
-  
-  
-  /* smooth a sroll*/
-   .bg-interno{
-    background-color: #16a2b7;
-   }
-  
+    
    .h1{
     font-family: "Raleway";
     font-size: 400;
@@ -77,7 +71,7 @@ body {
   .card-imagen{
     height:140px;
   }
-  /* footer*/
+
   .page-footer
   {
     background-color: #16a2b7;
@@ -92,7 +86,7 @@ body {
     width: 100%;
     padding:2px
    }
-   /* Botones de redes sociales*/
+
 
   .btn{
     background-color:#16a2b7;
